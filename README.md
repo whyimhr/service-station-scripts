@@ -5,6 +5,8 @@ These scripts help you manage files, videos, and system tasks quickly and effici
 
 Each script is described below with its functionality, usage, and requirements.
 
+> **Note:** All scripts are AppleScript (`.scpt` or `.applescript`) files.
+
 
 ## 🎵 Audio Extract
 
