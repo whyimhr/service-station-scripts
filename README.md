@@ -73,7 +73,7 @@ Show or hide hidden system files in Finder with one click.
 - Automatically restarts Finder to apply changes  
 - Simple **TRUE/FALSE** button interface  
 
-## 📝 Create Text File
+## 📝 New Text File
 
 Quickly create a new `.txt` file in the current Finder window.
 
